@@ -1,0 +1,1 @@
+Para ejecutar el programa, los 4 archivos, Analisis.txt, AnalisisSectores.txt, Cartera.txt y Noticias.txt, deben estar en el mismo directorio (a la misma altura) que el programa a ejecutar. Para ello, he metido el programa dentro de la carpeta Datos Ibex 35, es el mismo que está fuera.
