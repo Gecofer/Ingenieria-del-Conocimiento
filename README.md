@@ -1,4 +1,4 @@
-UGR-IC
+#UGR-IC
 
 Prácticas de la asignatura Ingeniería del Conocimiento - Grado en Ingeniería Informática (UGR) - Curso 2015/2016
 
